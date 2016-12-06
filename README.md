@@ -1,7 +1,7 @@
 # angular-scroll-position-demo
 
 
-Before run this demo, please make sure you have install node or yarn, after that follow below step:
+Before run this demo, please make sure you have installed node or yarn, after that follow below step:
 
 
 1. npm install or yarn install
